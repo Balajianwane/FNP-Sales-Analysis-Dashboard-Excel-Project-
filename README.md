@@ -11,7 +11,7 @@ This is an **interactive and visual Sales Analysis Dashboard** created in **Micr
 
 ## 📁 Project Contents
 
-- <a href=https://github.com/Balajianwane/FNP-Sales-Analysis-Dashboard-Excel-Project-/blob/main/customers.csv></a> &  <a href=https://github.com/Balajianwane/FNP-Sales-Analysis-Dashboard-Excel-Project-/blob/main/orders.csv></a> & <a href=https://github.com/Balajianwane/FNP-Sales-Analysis-Dashboard-Excel-Project-/blob/main/products.csv></a>*these are excel files*
+- <a href=https://github.com/Balajianwane/FNP-Sales-Analysis-Dashboard-Excel-Project-/blob/main/customers.csv>customers</a> &  <a href=https://github.com/Balajianwane/FNP-Sales-Analysis-Dashboard-Excel-Project-/blob/main/orders.csv>orders</a> & <a href=https://github.com/Balajianwane/FNP-Sales-Analysis-Dashboard-Excel-Project-/blob/main/products.csv>products</a>*these are excel files*
 - <a href=https://github.com/Balajianwane/FNP-Sales-Analysis-Dashboard-Excel-Project-/blob/main/Screenshot%20FNP.png></a> – A preview image of the dashboard layout and design
 
 ---
