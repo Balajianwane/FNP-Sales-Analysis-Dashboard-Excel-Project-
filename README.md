@@ -65,7 +65,7 @@ This is an **interactive and visual Sales Analysis Dashboard** created in **Micr
 ## 🧑‍💻 Author
 
 - **Name:** Balaji Anwane
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
+- **GitHub:**  https://github.com/Balajianwane
 
 ---
 
